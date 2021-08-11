@@ -48,6 +48,7 @@ export default function PricingPage() {
         {
           name: "5 Users",
           enabled: true,
+          highlighted:true
         },
         {
           name: "50GB Storage",
@@ -86,6 +87,7 @@ export default function PricingPage() {
         {
           name: "Unlimited User",
           enabled: true,
+          highlighted:true
         },
         {
           name: "150GB Storage",

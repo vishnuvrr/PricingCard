@@ -21,7 +21,7 @@ export default function PriceCard(props) {
                   <span class="fa-li">
                     <i class="fas fa-check"></i>
                   </span>
-                  {feature.name}
+                  {feature.highlighted?<strong>{feature.name}</strong>:feature.name}
                 </li>
               ) : (
                 <li class="text-muted">
