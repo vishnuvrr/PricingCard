@@ -2,7 +2,7 @@
   "name": "pricing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vishnuvrr/PricingCard",
+  "homepage": "http://gitname.github.io/vishnuvrr/PricingCard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
